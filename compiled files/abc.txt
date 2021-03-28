@@ -1,0 +1,24 @@
+     org 10
+     ldan ads
+     stan ptr
+     ldan nbr
+     stan ctr
+     clan
+     addn ptr I
+     iszn ptr
+     iszn ctr
+     bunn 15
+     stan sum
+     hlt
+ads, hex 50
+ptr, hex 0
+nbr, dec -5
+ctr, hex 1
+sum, hex 2
+     org 50
+     dec 75
+     dec 25
+     dec 15
+     dec 10
+     dec 5
+     end
